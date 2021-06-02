@@ -1,1 +1,1 @@
-# gogb_homework
+Geekbrains homework. Level 1.
